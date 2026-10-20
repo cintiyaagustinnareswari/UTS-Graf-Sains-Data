@@ -54,7 +54,7 @@ Data dibagi menjadi dua periode sebagai berikut:
 ## Struktur Repository
 
 ```text
-UTS-Graf-Sains-Data-RetailRocket/
+UTS-Graf-Sains-Data
 ├── README.md
 └── uts_graf_RetailRocket.ipynb
 ```
