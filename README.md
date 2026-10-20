@@ -61,15 +61,6 @@ UTS-Graf-Sains-Data
 
 Dataset training dan testing disimpan di Google Drive karena ukuran file dapat cukup besar. Tautannya tersedia pada bagian Dataset.
 
-## Cara Menjalankan
-
-1. Siapkan Python dan environment yang digunakan untuk pengerjaan.
-2. Unduh dataset training dan testing dari tautan Google Drive.
-3. Letakkan kedua file pada folder `data` sesuai dengan lokasi yang digunakan dalam notebook.
-4. Instal dependensi yang diperlukan.
-5. Buka `uts_graf_RetailRocket.ipynb` menggunakan Jupyter Notebook.
-6. Jalankan setiap cell secara berurutan.
-
 ## Hasil Pengerjaan
 
 Hasil pengerjaan mencakup pengolahan dan eksplorasi data RetailRocket serta penerapan metode KNN untuk rekomendasi item. Evaluasi rekomendasi dilakukan menggunakan Hit@5 dan NDCG@5. Kode, hasil eksekusi, visualisasi, dan interpretasi disajikan dalam notebook.
